@@ -17,3 +17,7 @@
   text-align: right;
   font-style: italic;
 }
+.text {
+  font-size: 16px;
+  color: #333;
+}
